@@ -9,6 +9,9 @@ Helpful Links
 https://developer.bosch-iot-suite.com/tutorials/connecting-a-simple-device-to-the-bosch-iot-suite/
 BoCSE chat room for the tutorial: https://us20.chatzy.com/18208830908515 Only discuss non-confidentials. 
 
+###At the end of the session we would like to invite you for some feedback to help us improve the tutorial:
+https://www.surveymonkey.de/r/Y2KQZMG
+
 ### Other tutorials for the Bosch IoT Suite and helpful links for later:
 
 - Getting Started Asset Communictation Package: https://docs.bosch-iot-suite.com/asset-communication/Getting-started.html
